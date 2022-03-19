@@ -1,0 +1,14 @@
+{
+    "users": {
+        "Kohki Hatori": "1234",
+        "bot": "1234",
+        "a": "a",
+        "b": "b"
+    },
+    "scores": {
+        "a": 82,
+        "b": 78,
+        "Kohki Hatori": "0",
+        "bot": "0"
+    }
+}
